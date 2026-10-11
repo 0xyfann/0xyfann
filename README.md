@@ -106,3 +106,11 @@
 <p align="center">
   <sub>Every contribution is a step forward.</sub>
 </p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+  <br>
+  <sub>© 2026 0xyfann · Learn something new every day.</sub>
+</p>
