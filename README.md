@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=180&section=header&text=0xyfann&fontSize=55&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
+    width="100%"
+    alt="0xyfann Minimalist Banner"
+  />
+</p>
+
 <h1 align="center">Hi, I'm 0xyfann 👋</h1>
 
 <p align="center">
