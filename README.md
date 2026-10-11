@@ -79,3 +79,19 @@
     width="100%"
   />
 </p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/0xyfann"
+    alt="GitHub contribution graph for 0xyfann"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <sub>Every contribution is a step forward.</sub>
+</p>
