@@ -1,5 +1,22 @@
 
 <p align="center">
+  <strong>LEARN · BUILD · IMPROVE</strong>
+  <br>
+  Learning web development, one project at a time.
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Focus-Web%20Development-374151?style=flat-square"
+    alt="Focus: Web Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Status-Always%20Learning-6B7280?style=flat-square"
+    alt="Status: Always Learning"
+  />
+</p>
+
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=180&section=header&text=0xyfann&fontSize=55&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
     width="100%"
