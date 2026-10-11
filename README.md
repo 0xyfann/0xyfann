@@ -114,3 +114,8 @@
   <br>
   <sub>© 2026 0xyfann · Learn something new every day.</sub>
 </p>
+<h3>🐍 GitHub Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xyfann/0xyfann/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
