@@ -36,3 +36,21 @@
 <p align="center">
   <i>"Small steps every day lead to big progress."</i>
 </p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=0xyfann&show_icons=true&hide_border=true&theme=default"
+    alt="GitHub Statistics"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyfann&layout=compact&hide_border=true&theme=default"
+    alt="Most Used Languages"
+    width="100%"
+  />
+</p>
